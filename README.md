@@ -27,3 +27,5 @@ If version appears close the cmd and go to step 3
 7.Once no errors are found run app.py
 
 8.A link with localhost appears as: (http://12............) follow the link.It will be opened in the browser.
+
+9. You can test the application by uploading files(x1.csv,x2.csv,x3.csv) from test_data folder in this folder.
